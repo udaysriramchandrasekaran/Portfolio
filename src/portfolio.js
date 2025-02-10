@@ -241,50 +241,41 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "Fundamental of Programming",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+        "I have Participated in FUNDAMENTALS OF PROGRAMMING workshop held at JIT conducted by NIIT Coimbatore",
+      image: require("./assets/images/NIIT.png"),
+      imageAlt: "NIIT-Coimbatore Logo",
       footerLink: [
         {
-          name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-        },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          name: "View",
+          url: "https://drive.google.com/file/d/1lnBRrDc1CsvU6M5soHq2vckeMi3SWMTl/view?usp=drive_link"
         }
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "Internet of Things",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      imageAlt: "Google Assistant Action Logo",
+        "Participated in the one day seminar on COMMUNICATION THECHNOLOGIES AND SECURITY CHALLANGES FOR INTERNET OF THINGS ",
+      image: require("./assets/images/IOT.jpg"),
+      imageAlt: "Hindustan College LOGO",
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          name: "View",
+          url: "https://drive.google.com/file/d/1aa17xksARWYxrsvsR1k42EDd4H9db87i/view?usp=drive_link"
         }
       ]
     },
 
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
+      title: "Full Stack Developer",
+      subtitle: "Completed Certifcation from JSPIDERS for Full stack JAVA developement",
+      image: require("./assets/images/JSP_Logo.png"),
+      imageAlt: "Jspiders LOGO",
       footerLink: [
-        {name: "Certification", url: ""},
         {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
+          name: "View",
+          url: "https://drive.google.com/file/d/1JU0UV0v5jJZFBZHTt6tft3N-wEZUP-P7/view?usp=drive_link"
         }
       ]
     }
