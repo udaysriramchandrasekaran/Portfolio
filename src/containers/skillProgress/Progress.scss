@@ -28,7 +28,7 @@
 }
 .skills-container {
   display: flex;
-  width: 90%;
+  width: 100%;
   padding: 20px 10px;
   margin: 0px auto;
   margin-top: 2rem;
@@ -50,7 +50,7 @@
     line-height: 4rem;
   }
   .skills-image {
-    display: none;
+    display: flex;
     order: 2;
   }
 }
@@ -64,7 +64,7 @@
     margin: 20px;
   }
   .skills-image {
-    display: none;
+    display: flex;
     order: 2;
   }
 }
