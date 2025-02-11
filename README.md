@@ -17,4 +17,4 @@ You can view the live version of the portfolio at: [Uday Portfolio](https://dev-
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/udayportfolio.git
+   git clone https://github.com/udaysriramchandrasekaran/Portfolio.git
